@@ -1,2 +1,2 @@
-# Password Manager
+# TCP chat server
 ---------------------------------
