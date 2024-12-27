@@ -15,5 +15,5 @@ These are the current projects that I have completed as of so afar.
 -------------------------------------------------------------------------------------------
 Level 1 | 
 ------------------------------------------------|------------------------------------------
-[1] | 
+[1] | TCP or UDP server just to receive messages
 
