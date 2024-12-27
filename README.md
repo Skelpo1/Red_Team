@@ -13,7 +13,7 @@ These are the current projects that I have completed as of so afar.
 </p>
 
 -------------------------------------------------------------------------------------------
-Level 1 | 
+Level 1 | Basic Informatics
 ------------------------------------------------|------------------------------------------
 [1] | TCP or UDP server just to receive messages
 
