@@ -13,4 +13,4 @@ These are the current projects that I have completed as of so afar.
 </p>
 
 ------------------------------------------------|-------------------------------------------
-[1] | 
+[1] | as
